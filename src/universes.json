@@ -1,0 +1,64 @@
+{
+  "universe": "Multiverse",
+  "multiverse_age": "Infinite",
+  "dimensions": [
+    {
+      "name": "Zeroth Dimension",
+      "description": "Point",
+      "entities": []
+    },
+    {
+      "name": "First Dimension",
+      "description": "Line",
+      "entities": [
+        {
+          "name": "Photon",
+          "type": "Particle",
+          "properties": ["Massless", "Travel at the speed of light"]
+        },
+        {
+          "name": "Neutrino",
+          "type": "Particle",
+          "properties": ["Neutral", "Nearly massless"]
+        }
+      ]
+    },
+    {
+      "name": "Second Dimension",
+      "description": "Plane",
+      "entities": [
+        {
+          "name": "Electron",
+          "type": "Particle",
+          "properties": ["Negatively charged", "Lepton"]
+        },
+        {
+          "name": "Proton",
+          "type": "Particle",
+          "properties": ["Positively charged", "Baryon"]
+        },
+        {
+          "name": "Neutron",
+          "type": "Particle",
+          "properties": ["Neutral", "Baryon"]
+        }
+      ]
+    },
+    {
+      "name": "Third Dimension",
+      "description": "Space",
+      "entities": [
+        {
+          "name": "Earth",
+          "type": "Planet",
+          "properties": ["Habitable", "Supports life"]
+        },
+        {
+          "name": "Mars",
+          "type": "Planet",
+          "properties": ["Potential for habitation", "Red planet"]
+        }
+      ]
+    }
+  ]
+}
